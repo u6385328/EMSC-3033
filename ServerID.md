@@ -6,18 +6,12 @@ upgraded (that needs to be managed from the console).
 
 There will be errors if the github secrets have not been set up 
 
- - **IP Address:** http://128.199.153.60
- - **Hostname:** https://test.rses.underworldcloud.org 
- - **Release ID:** 0.1.0
- - **Droplet Name:** ubuntu-rses-earth-sci-dev
+ - **IP Address:** http://68.183.229.55
+ - **Hostname:** https://emsc3033-2021.rses.underworldcloud.org 
+ - **Release ID:** 0.9
+ - **Droplet Name:** emsc-3033-2021
  
- ## Comments
+ ## Comments / log
    
-Rebuilt droplet / test the installer workflow 
-  - Note: rebuilding the droplet resets the root password to a temporary value
-  - Note: remove old ssh key as well using `ssh-keygen -R [hostname-or-IP]`
-  - Switching to ubuntu 19 for testing purposes
-  - 2021.02.16 - upgrading to ubuntu 20 and scratching all content
-  - 2021.02.16 - pick only the useful dependencies
-  - 2021.02.17 - upgrade to jl 3.0 after installation
+ - 2021.02.23 Initialise for EMSC 3033 in 2021 / S1
   

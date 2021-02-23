@@ -14,8 +14,10 @@ To make a "binder-like" link to a repository on a droplet that you have set up, 
 [![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/Admin-LinkMaker-Red)](https://jupyterhub.github.io/nbgitpuller/link.html?hub=https://emsc3033-2021.rses.underworldcloud.org&repo=https://github.com/ANU-RSES-Education/EMSC-3033)
 
 You can launch this example particular example to try it out by clicking on this link. Your work is persistent. 
-
-[![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/Launch-Demo-blue)](https://emsc3033-2021.rses.underworldcloud.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FANU-RSES-Education%2FEMSC-3033&urlpath=tree%2FEMSC-3033%2FStartHere.ipynb&branch=master)
+    
+[![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/Launch-Demo-blue)](https://emsc3033-2021.rses.underworldcloud.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FANU-RSES-Education%2FEMSC-3033&urlpath=lab%2Ftree%2FEMSC-3033%2FStartHere.ipynb&branch=master)
+    
+[![QR](Images/EMSC-3033-2021-QRcode.png)](https://img.shields.io/badge/Launch-Demo-blue)](https://emsc3033-2021.rses.underworldcloud.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FANU-RSES-Education%2FEMSC-3033&urlpath=lab%2Ftree%2FEMSC-3033%2FStartHere.ipynb&branch=master)
     
 ## Administration tasks
 

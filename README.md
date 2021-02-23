@@ -1,6 +1,10 @@
 # Jupyterhub on DigitalOcean to serve notebooks for EMSC3033
 
 
+## Health check
+
+[![Health check](https://github.com/ANU-RSES-Education/EMSC-3033/actions/workflows/health_check.yml/badge.svg)](https://github.com/ANU-RSES-Education/EMSC-3033/actions/workflows/health_check.yml)
+
 ## Nbgitpuller
 
 To make a "binder-like" link to a repository on a droplet that you have set up, you can read the [nbgitpuller documentation](https://jupyterhub.github.io/nbgitpuller/link.html) or fill out a form here:

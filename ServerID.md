@@ -14,4 +14,5 @@ There will be errors if the github secrets have not been set up
  ## Comments / log
    
  - 2021.02.23 Initialise for EMSC 3033 in 2021 / S1
+ - 2021.02.23 Reset admin passwords for tljh
   

@@ -17,7 +17,11 @@ You can launch this example particular example to try it out by clicking on this
     
 [![https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>](https://img.shields.io/badge/Launch-Demo-blue)](https://emsc3033-2021.rses.underworldcloud.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FANU-RSES-Education%2FEMSC-3033&urlpath=lab%2Ftree%2FEMSC-3033%2FStartHere.ipynb&branch=master)
     
-[![QR](Images/EMSC-3033-2021-QRcode.png)](https://img.shields.io/badge/Launch-Demo-blue)](https://emsc3033-2021.rses.underworldcloud.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FANU-RSES-Education%2FEMSC-3033&urlpath=lab%2Ftree%2FEMSC-3033%2FStartHere.ipynb&branch=master)
+[![QR](ImagesEtc/EMSC-3033-2021-QRcode.png)](https://emsc3033-2021.rses.underworldcloud.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FANU-RSES-Education%2FEMSC-3033&urlpath=lab%2Ftree%2FEMSC-3033%2FStartHere.ipynb&branch=master)
+
+![ImagesEtc/EMSC-3033-2021-QRcode.png](ImagesEtc/EMSC-3033-2021-QRcode.png)
+
+
     
 ## Administration tasks
 
